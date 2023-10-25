@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vedanthanekar45
 - 👀 I’m interested in Films, TV, Computers and stuff.
-- 🌱 I’m currently learning C/C++
+- 🌱 I’m currently learning Web.
 - 💞️ I’m looking to collaborate on (not yet)
 - 📫 How to reach me by my email.
 
