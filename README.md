@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @vedanthanekar45
-- 👀 I’m interested in Films, TV, Computers and stuff.
-- 🌱 Constantly Learning New Stuff
-- 
+- Hi, I’m @vedanthanekar45
+- I’m interested in Films, TV, Computers and stuff.
+- Constantly Learning New Stuff
+- Currently working on liblend
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vedanthanekar45&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vedanthanekar45&theme=dark&hide_border=false)<br/>
